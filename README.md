@@ -1,1 +1,1 @@
-# EECS1012
+# School-Project HTML/CSS/JavaScript
